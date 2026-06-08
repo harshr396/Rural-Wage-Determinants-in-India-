@@ -1,12 +1,12 @@
 # Rural-Wage-Determinants-in-India-
 
-## Overview:- 
+## Overview
 Analyzed rural wage determinants across 19 Indian states using econometric regression
 
 This paper looks into the Net State Value Added (NSV A) of various industries, the State
 Rural Wage Rate, the correlation between them and whether there is any causal relationship.
 
-## Objectives:-
+## Objectives
 The dependent variable is:-
 	- rural wage rate (rwage)
 
@@ -18,13 +18,23 @@ The independent variables are:-
 
 Our hypothesis is based on standard significance levels, i.e: p<0.05 or 5% significance.
 
-## Findings
+## Key Findings
 
 	- Construction NSVA positively impacts rural wages.
 	- Industrial NSVA shows a negative relationship.
 	- Model explains approximately 61% of wage variation.
 	- Overall model significance: p = 0.006987.
 
+
+## Tools Used
+
+- R
+- RStudio
+- Multiple Linear Regression
+- Econometrics
+- Microsoft Excel
+
+  
 
 ## Files
 	- projectdata 24-25.xlsx (Dataset)
